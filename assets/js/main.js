@@ -244,6 +244,8 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
+
+
 // document.querySelectorAll('img').forEach((img) => {
 //   if (!img.alt) {
 //     img.alt = 'Imagem sem descrição'; // Definir alt padrão para imagens sem descrição
